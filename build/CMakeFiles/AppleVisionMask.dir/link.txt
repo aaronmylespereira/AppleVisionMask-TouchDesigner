@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -bundle -Wl,-headerpad_max_install_names -o AppleVisionMask.bundle/Contents/MacOS/AppleVisionMask CMakeFiles/AppleVisionMask.dir/AppleVisionMask.mm.o  -framework Vision -framework CoreVideo -framework Foundation -framework CoreFoundation
