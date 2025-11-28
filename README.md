@@ -76,4 +76,4 @@ An example TouchDesigner project file is included to demonstrate usage:
 
 ## License
 
-[Insert License Here - e.g., MIT, GPL, or Proprietary]
+MIT License so use as needed
